@@ -22,7 +22,7 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
     <img src="https://github.com/mounikak2001/AtliQ-Hospitality-Analysis/blob/main/Hospitality%20project%20(1)-1.png" width="800">
 </p>
 
-## Learnt things from this Project 
+## Learnings from this Project 
 - Learnt how to create tooltip and use it in the dashboard
 - By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking   is cancelled after that, the charge range from 60 to 90% of the booking cost.
 - Tried to learn colour theory through (https://colorhunt.co/)
